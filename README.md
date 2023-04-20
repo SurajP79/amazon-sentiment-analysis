@@ -13,3 +13,5 @@ The features are as follows -
 *   summary - summary of the review
 *   unixReviewTime - time of the review (unix)
 *   reviewTime - time of the review
+
+The Kaggle link of the data is - https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews
